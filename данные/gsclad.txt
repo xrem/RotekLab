@@ -1,0 +1,4 @@
+﻿"CN=vasev,OU=Common_users,DC=consorto,DC=loc"
+"CN=Aivanov,OU=Common_users,DC=consorto,DC=loc"
+"CN=Litvinuk,OU=Common_users,DC=consorto,DC=loc"
+

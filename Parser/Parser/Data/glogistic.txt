@@ -1,0 +1,9 @@
+﻿"CN=Kivickaya,OU=Common_users,DC=consorto,DC=loc"
+"CN=vasev,OU=Common_users,DC=consorto,DC=loc"
+"CN=Zvonova,OU=Common_users,DC=consorto,DC=loc"
+"CN=test,OU=Common_users,DC=consorto,DC=loc"
+"CN=Zhukovskiy,OU=Common_users,DC=consorto,DC=loc"
+"CN=Litvinuk,OU=Common_users,DC=consorto,DC=loc"
+"CN=Stoyka,OU=Common_users,DC=consorto,DC=loc"
+"CN=Mihaylov,OU=Common_users,DC=consorto,DC=loc"
+

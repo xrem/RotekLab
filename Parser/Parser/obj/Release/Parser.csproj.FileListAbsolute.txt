@@ -1,0 +1,8 @@
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\Release\Parser.exe.config
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\Release\Parser.exe
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\Release\Parser.pdb
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\obj\Release\Parser.Properties.Resources.resources
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\obj\Release\Parser.csproj.GenerateResource.Cache
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\obj\Release\Parser.exe
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\obj\Release\Parser.pdb
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\obj\Release\Parser.csprojResolveAssemblyReference.cache

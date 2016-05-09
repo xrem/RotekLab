@@ -1,0 +1,9 @@
+﻿"CN=Garynceva,OU=Common_users,DC=consorto,DC=loc"
+"CN=Sutkina,OU=Common_users,DC=consorto,DC=loc"
+"CN=Volobyeva,OU=Common_users,DC=consorto,DC=loc"
+"CN=Root,OU=Common_users,DC=consorto,DC=loc"
+"CN=Ustina,OU=deleted users,OU=Common_users,DC=consorto,DC=loc"
+"CN=Livadarova,OU=Common_users,DC=consorto,DC=loc"
+"CN=Avdeeva,OU=Common_users,DC=consorto,DC=loc"
+"CN=Admin,CN=Users,DC=consorto,DC=loc"
+

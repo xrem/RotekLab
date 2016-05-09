@@ -1,0 +1,10 @@
+﻿"CN=Razmyslova,OU=Common_users,DC=consorto,DC=loc"
+"CN=Bagazhkova,OU=Common_users,DC=consorto,DC=loc"
+"CN=Lomigo,OU=Common_users,DC=consorto,DC=loc"
+"CN=Meshcheryakova,OU=deleted users,OU=Common_users,DC=consorto,DC=loc"
+"CN=uljanova,OU=Common_users,DC=consorto,DC=loc"
+"CN=kassihina,OU=Common_users,DC=consorto,DC=loc"
+"CN=Koroleva,OU=Common_users,DC=consorto,DC=loc"
+"CN=Sguz,OU=Common_users,DC=consorto,DC=loc"
+"CN=Stoyka,OU=Common_users,DC=consorto,DC=loc"
+

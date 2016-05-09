@@ -1,0 +1,13 @@
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\x64\Debug\Parser.exe.config
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\obj\x64\Debug\Parser.Properties.Resources.resources
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\obj\x64\Debug\Parser.csproj.GenerateResource.Cache
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\x64\Debug\Parser.exe
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\x64\Debug\Parser.pdb
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\obj\x64\Debug\Parser.exe
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\obj\x64\Debug\Parser.pdb
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\obj\x64\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\x64\Debug\Fizzler.dll
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\x64\Debug\Fizzler.xml
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Users\X-REM\Desktop\x501\3 КУРС\Представление\Лаб 1\Parser\Parser\bin\x64\Debug\HtmlAgilityPack.xml
