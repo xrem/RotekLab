@@ -78,8 +78,12 @@ namespace Parser
             if (uri.Contains(@"sl-love.ru")) return ScamType + "sl-love.ru";
             if (uri.Contains(@"loverepublic.ru")) return ScamType + "loverepublic.ru";
             if (uri.Contains(@"alibaba.com")) return ScamType + "aliexpress";
-            
 
+            ScamType = "Jobs";
+            if (uri.Contains(@".hh.ru/")) return ScamType;
+            if (uri.Contains(@"carrer.ru/")) return ScamType;
+            if (uri.Contains(@"job.ru/")) return ScamType;
+            
             ScamType = "Other/";
             if (x.r_host.Contains("eminem50cent.ru")) return ScamType + "eninem50cent.ru";
             if (x.r_host.Contains("zara.net")) return ScamType + "zara.net";

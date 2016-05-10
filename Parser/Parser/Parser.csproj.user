@@ -14,6 +14,6 @@
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
-    <StartArguments>H:\isaFresh -learn</StartArguments>
+    <StartArguments>H:\isaFresh</StartArguments>
   </PropertyGroup>
 </Project>

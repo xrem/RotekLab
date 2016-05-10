@@ -68,6 +68,7 @@ namespace Parser
             foreach (var s in sts.Keys)
             {
                 File.WriteAllLines(Directory.GetCurrentDirectory() + @"\learningMode\" + s + ".txt", sts[s]);
+                File.WriteAllLines(Directory.GetCurrentDirectory() + @"\learningMode\" + s + "LEMMAZ.txt", WebHelper.Lemmatize(sts[s]));
             }
             Environment.Exit(0);
         }

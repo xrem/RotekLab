@@ -13,6 +13,7 @@ using Fizzler;
 using System.Web;
 using System.Net;
 using System.Text.RegularExpressions;
+using LemmaSharp;
 
 namespace Parser
 {
@@ -29,6 +30,8 @@ namespace Parser
         public static List<string> logFiles = new List<string>();
         public static Multithread m;
         public static Object thisLock = new Object();
+        public static ILemmatizer lemattorRu = new LemmatizerPrebuiltFull(LanguagePrebuilt.Russian);
+        public static ILemmatizer lemattorEn = new LemmatizerPrebuiltFull(LanguagePrebuilt.English);
 
         public static class KekLoader
         {
@@ -234,6 +237,7 @@ namespace Parser
                                     }
                                 }
                                 List<string> wrds = WebHelper.GetWordsFromContent(wcontent);
+                                wrds = WebHelper.Lemmatize(wrds);
                             }
                         }
                         catch (Exception e)
@@ -287,6 +291,7 @@ namespace Parser
 
             //---------------------
             Console.WriteLine("X-rem's W3C log parser started.");
+            Categorizer.Init();
             Multithread.InitMultithreading(ref m, isMultithreadingDisabled);
             //-----------
             //var db = new PetaPoco.Database("Consorto");

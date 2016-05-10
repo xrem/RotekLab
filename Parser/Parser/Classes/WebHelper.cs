@@ -22,6 +22,7 @@ namespace Parser
                 request.Timeout = 10000;
                 request.UserAgent = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36";
                 request.Method = Method;
+                request.AllowAutoRedirect = true;
                 string wcontent;
                 Encoding encoding = null;
                 using (var response = request.GetResponse())
@@ -60,6 +61,31 @@ namespace Parser
             {
                 return null;
             }
+        }
+
+        public static List<string> Lemmatize(List<string> words)
+        {
+            List<char> Alphabet = new List<char>();
+            
+            for (int i = 1072; i < 1104; i++)
+            {
+              Alphabet.Add((char)i);
+            }
+            Alphabet.Add((char)1105);
+
+            List<string> result = new List<string>();
+            foreach (string word in words.Where(v => !Categorizer.stopWords.Contains(v)).ToList())
+            {
+                if (word.ToLower().ToCharArray().Any(Alphabet.Contains))
+                {
+                    result.Add(Program.lemattorRu.Lemmatize(word.ToLower()));
+                }
+                else
+                {
+                    result.Add(Program.lemattorEn.Lemmatize(word.ToLower()));
+                }
+            }
+            return result.Where(zz => !Categorizer.stopWords.Contains(zz)).ToList();
         }
 
         public static List<string> GetWordsFromContent(string wcontent, bool verbose = false)

@@ -76,6 +76,22 @@
       <HintPath>..\packages\HtmlAgilityPack.1.4.9\lib\Net45\HtmlAgilityPack.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="LemmaSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\Debug\LemmaSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="LemmaSharpPrebuilt, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\Debug\LemmaSharpPrebuilt.dll</HintPath>
+    </Reference>
+    <Reference Include="LemmaSharpPrebuiltFull, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\Debug\LemmaSharpPrebuiltFull.dll</HintPath>
+    </Reference>
+    <Reference Include="Lzma#, Version=4.12.3884.11200, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\Debug\Lzma#.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -86,6 +102,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Categorizer.cs" />
     <Compile Include="Classes\MiscHelpers.cs" />
     <Compile Include="Classes\Multithread.cs" />
     <Compile Include="Classes\ReportingService.cs" />
