@@ -1,0 +1,17 @@
+window
+file
+association
+file
+language
+view
+english
+version
+copyright
+microsoft
+corporation
+reserve
+contact
+term
+trademark
+privacy
+statement

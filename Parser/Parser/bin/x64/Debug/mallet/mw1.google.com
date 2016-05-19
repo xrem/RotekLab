@@ -1,0 +1,2 @@
+panoramio
+photo
