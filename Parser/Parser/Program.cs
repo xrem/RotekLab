@@ -209,45 +209,51 @@ namespace Parser
                     }
                     if (!ExcludeWarnings && !shouldBeAddedInWarningList && (_Current.s_operation == "GET" || _Current.s_operation == "POST") && (_Current.sc_status == "200") && Misc.isHTTPMIME(_Current.cs_mime_type))
                     {
-                        try 
+                        var lll = (WEBLogEntry)Current;
+                        var fname2save = lll.cs_uri.Split('/')[2];
+                        if (!File.Exists(Directory.GetCurrentDirectory() + @"\mallet\" + fname2save))
                         {
-                            string wcontent = WebHelper.GetURIContent(_Current.cs_uri, _Current.s_operation);
-                            
-                            if (wcontent.Substring(0, 200).ToLower().Contains("<html>"))
+                            try
                             {
-                                //kind of valid html
-                                try
-                                {
-                                    HtmlDocument _htdoc = new HtmlDocument();
-                                    _htdoc.LoadHtml(wcontent.ToLower());
-                                    HtmlNode charsetprobably = _htdoc.DocumentNode.SelectSingleNode("//meta[@http-equiv='content-type']");
-                                    if (charsetprobably != null)
-                                    {
-                                        var _enc = charsetprobably.Attributes["content"].Value.Trim().Split(new string[] { "charset=" }, StringSplitOptions.RemoveEmptyEntries)[1];
-                                        string enc = _enc.Split(' ')[0];
-                                        Encoding.GetEncoding(enc); //debug
-                                        wcontent = WebHelper.GetURIContent(_Current.cs_uri, _Current.s_operation, enc);
-                                    }
-                                }
-                                catch (Exception e)
-                                {
-                                    if (debug)
-                                    {
-                                        Console.WriteLine("\n ICONV CONVERT ERR \n" + e.Message + "\n");
-                                    }
-                                }
-                                List<string> wrds = WebHelper.GetWordsFromContent(wcontent);
-                                wrds = WebHelper.Lemmatize(wrds);
-                            }
-                        }
-                        catch (Exception e)
-                        {
-                            if (debug)
-                            {
-                                Console.WriteLine("\n" + e.Message + "\n");
-                            }
-                        }
+                                string wcontent = WebHelper.GetURIContent(_Current.cs_uri, _Current.s_operation);
 
+                                if (wcontent.Substring(0, 200).ToLower().Contains("<html>"))
+                                {
+                                    //kind of valid html
+                                    try
+                                    {
+                                        HtmlDocument _htdoc = new HtmlDocument();
+                                        _htdoc.LoadHtml(wcontent.ToLower());
+                                        HtmlNode charsetprobably = _htdoc.DocumentNode.SelectSingleNode("//meta[@http-equiv='content-type']");
+                                        if (charsetprobably != null)
+                                        {
+                                            var _enc = charsetprobably.Attributes["content"].Value.Trim().Split(new string[] { "charset=" }, StringSplitOptions.RemoveEmptyEntries)[1];
+                                            string enc = _enc.Split(' ')[0];
+                                            Encoding.GetEncoding(enc); //debug
+                                            wcontent = WebHelper.GetURIContent(_Current.cs_uri, _Current.s_operation, enc);
+                                        }
+                                    }
+                                    catch (Exception e)
+                                    {
+                                        if (debug)
+                                        {
+                                            Console.WriteLine("\n ICONV CONVERT ERR \n" + e.Message + "\n");
+                                        }
+                                    }
+                                    List<string> wrds = WebHelper.GetWordsFromContent(wcontent);
+                                    wrds = WebHelper.Lemmatize(wrds);
+                                    File.WriteAllLines(Directory.GetCurrentDirectory() + @"\mallet\" + fname2save, wrds);
+                                    Console.WriteLine(fname2save + " saved.");
+                                }
+                            }
+                            catch (Exception e)
+                            {
+                                if (debug)
+                                {
+                                    Console.WriteLine("\n" + e.Message + "\n");
+                                }
+                            }
+                        }
                     }
                     if (!ExcludeWarnings && shouldBeAddedInWarningList)
                     {
